@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "punto2.js"
+    "start": "node punto2.js"
   },
   "repository": {
     "type": "git",
@@ -15,7 +15,8 @@
   "bugs": {
     "url": "https://github.com/BryanCometa-SOFT/Prueba-t-cnica-Apping/issues"
   },
-  "homepage": "https://github.com/BryanCometa-SOFT/Prueba-t-cnica-Apping#readme"
+  "homepage": "https://github.com/BryanCometa-SOFT/Prueba-t-cnica-Apping#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.1"
+  }
 }
-
-
