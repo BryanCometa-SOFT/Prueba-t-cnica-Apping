@@ -9,7 +9,7 @@ fetch('https://api.garantto.com/api/v1/pais')
         console.log(json.length);
 
         json.forEach(element => {
-            if(element.IdT==="COq"){
+            if(element.IdT==="CO"){
                 pais(element);
                 valida=1;
             } 
