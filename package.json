@@ -1,0 +1,21 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "punto2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanCometa-SOFT/Prueba-t-cnica-Apping.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryanCometa-SOFT/Prueba-t-cnica-Apping/issues"
+  },
+  "homepage": "https://github.com/BryanCometa-SOFT/Prueba-t-cnica-Apping#readme"
+}
+
+
